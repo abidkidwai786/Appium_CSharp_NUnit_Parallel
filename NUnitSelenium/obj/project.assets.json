@@ -403,20 +403,20 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\DellUser\\.nuget\\packages\\": {}
+    "C:\\Users\\abidk\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\ML-Script\\NUnit-Selenium-Sample-master\\NUnit-Selenium-Sample-master\\NUnitSelenium\\NUnitSelenium.csproj",
-      "projectName": "NUnitSelenium",
-      "projectPath": "D:\\ML-Script\\NUnit-Selenium-Sample-master\\NUnit-Selenium-Sample-master\\NUnitSelenium\\NUnitSelenium.csproj",
-      "packagesPath": "C:\\Users\\DellUser\\.nuget\\packages\\",
-      "outputPath": "D:\\ML-Script\\NUnit-Selenium-Sample-master\\NUnit-Selenium-Sample-master\\NUnitSelenium\\obj\\",
+      "projectUniqueName": "D:\\Code Stuff\\PRESALES\\DebugCode\\CSharp-NUnit-Selenium\\NUnitSelenium\\NUnitSelenium.csproj",
+      "projectName": "ParallelSelenium",
+      "projectPath": "D:\\Code Stuff\\PRESALES\\DebugCode\\CSharp-NUnit-Selenium\\NUnitSelenium\\NUnitSelenium.csproj",
+      "packagesPath": "C:\\Users\\abidk\\.nuget\\packages\\",
+      "outputPath": "D:\\Code Stuff\\PRESALES\\DebugCode\\CSharp-NUnit-Selenium\\NUnitSelenium\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
-        "C:\\Users\\DellUser\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\abidk\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
